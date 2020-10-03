@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+<header>
+ <h1> <b> بسم الله الرحمن الرحيم </b></h1>
+</header>
+        <title> My Resume </title>
+
+    </head>
+    <body>
+        <img src="img1.jpg" alt="shatha" title="img1">
+        <h1> <big><sup>My Resme</sup></big></h1>
+        <p><h2>
+           <br>PERSONAL INFORMATION:<br>
+           <br> Name:  Shatha Amin Khalafallh<br>
+            <br>Address:   Al-amal street,Khan yunis,Palestine<br>
+            <br>Telephone: 206-4196<br>
+            <br>Cell Phone:  056-7042924<br>  
+            <br>Email:       shathaamin63@gmail.com<br> 
+            <br>Date of Birth:March, 6, 1999 <br>
+            <br>Nationality:  Palestinian<br> 
+            <br>geder:        Female<br>
+            <br> Marital Status:  Single<br>
+        </h2>
+        <p> 
+            <p><h1>Education:</h1>
+                <h3>
+                    
+
+                 <br>   2016-2017: General Secondary School (average 85%) Acre Secondary School for Girls
+                  <br>  2017-2022: Bachelor of Computer Engineering at the Islamic University, Gaza 
+                    <a href="http://www.iugaza.edu.ps/">iugaza</a>
+                </h3>
+
+
+
+
+            </p>
+         
+
+        
+        </p>
+       
+       <br><video src="Palestine.mp4" width="320" height="240" controls></video>
+       <br> <audio controls="controls" height="50px" width="100px">
+        <source src="v1.mp3" type="audio/mpeg" />
+        <source src="v1.mp3" type="audio/ogg" />
+        <embed height="50px" width="100px" src="v1.mp3" />
+        </audio>
+      
+       <p> 
+       <br>
+       <br>
+       <br>
+       <p ></p>
+    <ol> oder
+         <li>one</li>
+         <li>two</li>
+         <li>three</li>
+    </ol>
+    <ul> under 
+         <li>one</li>
+        <li>two</li>
+        <li>three</li>
+    </ul><p>
+       <h2>COMPUTER SKILLS</h2> 
+   
+       <table border="1">
+        <thead>
+            <tr>
+                <th>Microsoft Office Suites</th>
+                  <th> Presentation skills</th>
+                  <th> Communication Tools </th>
+                  <th> Social Media</th>
+                  <th> Instantaneous Translation</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Excellent </td>
+                <td> Excellent</td>
+                <td>very good </td>
+                <td>Excellent </td>
+                <td>Excellent </td>
+
+            </tr>
+        </tbody>
+
+    </table>
+</p>
+    <form method="POST" action="t.html">
+        <label for ="sh">E-mail</label><br>
+        <input id ="sh"type="text" placeholder="E-mail">
+        <br>
+        <br>
+        <input type="password" placeholder="password">
+        <br>
+        <input type="radio"id ="male" name ="gender"value="male">
+        <label for= "male">male</label><br>
+        <input type="radio"id ="female" name ="gender"value="female">
+        <label for= "female">female</label><br>
+        <label for ="m"><p>search </p></label>
+        <input id ="m"type="text" placeholder="search">
+        <input type ="button"value="go">
+        <br>
+
+        <input id=""type="checkbox">
+        <input id=""type="checkbox">
+        <input id=""type="checkbox">
+        <input id=""type="checkbox">
+
+    </form>
+
+
+    </body>
+    <footer>
+        <img src="img2.jpg" alt="shatha" title="img2">
+    </footer>
+</html>
